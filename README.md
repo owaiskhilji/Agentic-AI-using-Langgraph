@@ -18,6 +18,7 @@ The project explores different workflow patterns used in modern AI systems, incl
 * `2llm_workflow.ipynb` – Demonstration of LLM-based workflow execution
 * `3prompt_chiaini.ipynb` – Prompt chaining examples for sequential reasoning
 * `promptchain.py` – Python implementation of prompt chaining logic
+* `upsc_essay_workflow.py` - Essay Checking 
 
 ## 🧠 Technologies Used
 
